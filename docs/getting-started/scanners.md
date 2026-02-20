@@ -253,3 +253,6 @@ OVH, besides being a web and cloud hosting company, is a telecom provider with s
     Number range: 036517xxxx
     City: Abbeville
     ```
+
+    phoneinfoga scan -p "+971522959432" #Full carrier/location scan
+    
