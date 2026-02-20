@@ -1,6 +1,8 @@
 # Scanners
 
-PhoneInfoga provide several scanners to extract as much information as possible from a given phone number. Those scanners may require authentication, so they're automatically skipped when no authentication credentials are found.
+phoneinfoga scan -p "+971522959432"  # Full carrier/location scan
+maigret 971522959432                 # Social/business username check
+$ curl -s "https://api.hunter.io/v2/domain-search?domain=uae&api_key=YOUR_KEY" | jq  # If domain known
 
 ## Configuration
 
